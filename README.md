@@ -27,3 +27,6 @@ Created SQL queries to analyze customer, sales, product, and store data.
 Uploaded the results of each SQL query into Power BI.
 * Creating Visualizations:
 Created visualizations to present insights from the data analysis.
+
+[PowerBi Presentation Link](https://app.powerbi.com/view?r=eyJrIjoiOTI2MjViZDUtMzZkMi00Y2FiLTgzMTItMDdlNGIwZGM4N2JkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection
+) 
